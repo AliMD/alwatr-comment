@@ -49,9 +49,9 @@
   },
   "devDependencies": {
     "@alwatr/type": "^1.2.1",
-    "@types/node": "^20.10.0",
+    "@types/node": "^20.12.13",
     "npm-run-all": "^4.1.5",
-    "typescript": "^5.3.2"
+    "typescript": "^5.4.5"
   },
   "dependencies": {
     "@alwatr/logger": "^2.3.0",
